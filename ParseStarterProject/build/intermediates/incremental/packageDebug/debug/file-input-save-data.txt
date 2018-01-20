@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Jan 20 11:13:20 IST 2018
+1.base=D\:\\HP\\AndroidStudioProjects\\RideOn\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\HP\\AndroidStudioProjects\\RideOn\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+1.path=classes.dex

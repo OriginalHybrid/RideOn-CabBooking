@@ -1,0 +1,4 @@
+#Sat Jan 20 11:08:53 IST 2018
+base.0=D\:\\HP\\AndroidStudioProjects\\RideOn\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
